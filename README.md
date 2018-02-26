@@ -3,4 +3,6 @@
 La versión de partida de este repositorio es MVC. 
 Se puede ver desplegada en [https://tmdad-lab0.herokuapp.com/](https://tmdad-lab0.herokuapp.com/).
 
-Tu objetivo es *RESTificarla*.
+Lado del servidor *RESTificado*.
+Se elimina el "modelo" y se devuelve el recurso directamente.
+
